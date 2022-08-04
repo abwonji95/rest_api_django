@@ -2,5 +2,4 @@
 
 #django
 
-
-#Wallace Abuonji
+ 
